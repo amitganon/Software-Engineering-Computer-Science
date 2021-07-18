@@ -9,4 +9,6 @@ Fermat’s Little Theorem,
 Deterministic Algorithm, 
 Randomized Algorithm, 
 
-project 2 (part 1+2) :
+project 2 (part 1+2) :The project contains functions on the following topics
+
+Arrays, functions and the problem of Satisfiability (SAT), solution for 'Travelling Salesman Problem'.
