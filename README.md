@@ -27,3 +27,11 @@ Use of linked lists and using iterators.
 Implementation of the 'comparable' interface.
 Realization of builders of different types.
 Use of Exceptions.
+
+project 5 (part 1+2) :
+
+Using an iterator interface in various ways.
+Implementation of operations in  object classes.
+Implementing and using the 'Comparator' interface.
+Functions on binary trees and binary search trees.
+Working with classes that contain several data structures.
