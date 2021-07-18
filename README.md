@@ -18,3 +18,12 @@ Arrays, functions and the problem of Satisfiability (SAT,CNF), solution for 'Tra
 project 3 (part 1+2) :
 
 BigInteger, Random, Recursion (the 'Coin Change' problem), Object-Oriented Programming
+
+project 4 (part 1+2) :
+
+Representation (binary) of large numbers, and performing arithmetic operations on them.
+Overriding the methods inherited from the 'Object' class.
+Use of linked lists and override it using iterators.
+Implementation of the 'comparable' interface.
+Realization of builders of different types.
+Use of Exceptions.
