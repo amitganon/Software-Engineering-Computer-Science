@@ -1,17 +1,10 @@
 # Software-Engineering-Computer-Science
 
-project 1 (part 1+2) : 
+project 1 (part 1+2) : The project contains functions on the following topics
 
-Prime Number – ראשוני מספר. 1
-
-Finding Factors of a Number – ראשוניים לגורמים מספר פירוק. 2
-
-3 .חשבון מודולרי )חשבון קונגרואנציות( – Arithmetic Modular
-
-Fermat’s Little Theorem – פרמה של הקטן המשפט. 4
-
-Deterministic Algorithm – דטרמיניסטי אלגוריתם. 5
-
-Randomized Algorithm – אקראי אלגוריתם. 6
-
-7 .צפיפות הראשוניים 
+Prime Number
+Finding Factors of a Number
+Arithmetic Modular
+Fermat’s Little Theorem
+Deterministic Algorithm
+Randomized Algorithm 
