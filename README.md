@@ -23,7 +23,7 @@ project 4 (part 1+2) :
 
 Representation (binary) of large numbers, and performing arithmetic operations on them.
 Overriding the methods inherited from the 'Object' class.
-Use of linked lists and override it using iterators.
+Use of linked lists and using iterators.
 Implementation of the 'comparable' interface.
 Realization of builders of different types.
 Use of Exceptions.
