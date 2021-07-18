@@ -1,6 +1,6 @@
 # Software-Engineering-Computer-Science
 
-All The projects contains only functions on the following topics
+All The projects contain only functions on the following topics
 
 project 1 (part 1+2) :
 
